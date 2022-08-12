@@ -1,5 +1,5 @@
 // Fill the black borders caused by the diferents
-// screen resolutions with a background image.
+// aspect radios with a background image.
 // Created by TheNeoDriver merging BigBlur and imgborder shaders.
 // MIT License.
 
